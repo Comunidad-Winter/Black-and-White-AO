@@ -1,0 +1,8 @@
+El Argentum Online Character Manager es una pequeña y útil herramienta que te ayudará
+a crear, modificar y analizar todo tipo de inforamación en personajes generados por un
+servidor de Argentum-Online. Al día de la fecha, la última versión del servidor registrada
+es la 0.9.9z, se irán haciendo actualizaciónes en el programa a medida que se actualize el
+servidor.
+
+Barrin, 21-2-04
+Puedes contactarte conmigo a barrin@argentina.com ante cualquier duda o problema.

@@ -1,0 +1,13 @@
+[mapa20]
+Name=Rinkel
+MusicNum=10-1
+StartPos=1-0-0
+PK=1
+Terreno=DESIERTO
+Zona=CAMPO
+Restringir=No
+Backup= 0
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0

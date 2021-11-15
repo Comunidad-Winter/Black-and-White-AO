@@ -1,0 +1,75 @@
+
+PROGRAMACION
+
+
+Para usuarios
+
+- Ip y puertos ocultos.
+- Eleccion de Resolucion
+- Letras suben desde la cabeza.
+- Estado del servidor al conectar
+- Sistema de cuentas
+- Al poner /salir nos lleva a la cuenta
+- Picture de seguro y combate
+- Invisibilidad y Techos con desvanecimiento
+- MiniMapa y optimizacion
+- Sistema global
+- Configurar Teclas
+- Interfaces seleccionables
+- Medite sin limite
+- Gms meditan
+- Hechizos modificados
+- Efecto de muerte (Screen Roja)
+- Transparencia en los form
+- Labeles de fuerza y agilidad
+- Label con nombre de objeto
+- Barra de experiencia estilo iao
+- Boveda estilo iao
+- Arreglado bug pictures en banco y comerciando
+- Consola transparente
+- Sistema de auras
+- Mandar Gm con formulario
+
+
+-Hechizos autolanzables
+-Mensajes privados a distancia
+-Se cambiaron los requisitos para fundar clan
+-Sistema anti-pisadas
+-Nombres con minusculas y mayusculas
+-Se usan items mientras meditan
+-Auto L
+
+
+Utilidades gm.
+
+
+- Ir a donde clikeamos Gms
+- Gms se equipan todo
+_ Gms hablan en verde
+- Comando /buscar
+- Agregado comando para crear particulas al usuario
+- Nombre del AO abajo del GM
+- Avisa a los GM's cuando alguien manda /GM
+
+Respecto a eventos
+
+- Sistema de duelos
+- Sistema de Torneo
+- Comando /Cuentaregresiva
+- Modo de habla en evento para Gms ( /EMSG )
+
+
+Modificaciones e implementacion de items programables
+
+
+- Pociones de metamorfosis
+- Implementadas las monturas
+- Anillo espectral
+- Pendiente del sacrificio
+- Pociones Invisibilidad y Remover Paralisis
+- Sistema de pasajes
+- Amuleto del silencio
+- Orbe Inhibicion
+- Orbe Acuatica
+- Orbe de la ponzoña
+- Orbe de Fundacion

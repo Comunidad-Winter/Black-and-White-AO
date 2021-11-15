@@ -1,0 +1,14 @@
+[CIUDAD NUEVA]
+Name=Mapa de Duelo
+MagiaSinefecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CAMPO
+Restringir=Si
+BackUp= 0
+Pk=0
+[MAPA DE DUELO]
+MagiaSinefecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0

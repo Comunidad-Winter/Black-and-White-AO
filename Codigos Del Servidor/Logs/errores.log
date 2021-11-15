@@ -1,0 +1,80 @@
+01/06/2010 19:51:24 HandleData. CadOri:OOLOGISAMKE Nom:UI:2 N: 13 D: Type mismatch
+01/06/2010 19:51:27 HandleData. CadOri:OOLOGISAMKE Nom:UI:2 N: 13 D: Type mismatch
+01/06/2010 19:51:54 HandleData. CadOri:OOLOGISAMKE Nom:UI:2 N: 13 D: Type mismatch
+01/06/2010 19:52:07 HandleData. CadOri:OOLOGITESTER Nom:UI:2 N: 13 D: Type mismatch
+01/06/2010 20:09:44 HandleData. CadOri:OOLOGISAMKE Nom:UI:2 N: 13 D: Type mismatch
+01/06/2010 22:45:09 HandleData. CadOri:OOLOGITESTEADOR Nom:UI:2 N: 13 D: Type mismatch
+14/07/2012 04:00:38 p.m. HandleData. CadOri:/cerrarclan Nom:NACEILUI:1 N: 13 D: Type mismatch
+14/07/2012 04:01:44 p.m. HandleData. CadOri:CLANDETAILSPrueba de cerrado Nom:MiNuScUlASUI:2 N: 13 D: Type mismatch
+14/07/2012 04:03:24 p.m. HandleData. CadOri:CLANDETAILSPrueba de cerrado Nom:MiNuScUlASUI:2 N: 13 D: Type mismatch
+14/07/2012 06:18:24 p.m. MakeUserChar: num: 91 desc: Object variable or With block variable not set
+14/07/2012 06:18:24 p.m. HandleData. CadOri:OOLOGINACEIL Nom:UI:1 N: 9 D: Subscript out of range
+14/07/2012 06:18:27 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:27 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:27 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:27 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:27 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:27 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:27 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:27 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:27 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:27 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:27 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:27 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:28 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:28 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:28 p.m. Error en CloseUser. Número 9 Descripción: Subscript out of range
+14/07/2012 06:18:30 p.m. MakeUserChar: num: 91 desc: Object variable or With block variable not set
+14/07/2012 06:18:30 p.m. HandleData. CadOri:OOLOGINACEIL Nom:UI:1 N: 9 D: Subscript out of range
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:33 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:34 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:34 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:34 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:34 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:18:34 p.m. Error en CloseUser. Número 9 Descripción: Subscript out of range
+14/07/2012 06:19:07 p.m. MakeUserChar: num: 91 desc: Object variable or With block variable not set
+14/07/2012 06:19:08 p.m. HandleData. CadOri:OOLOGINACEIL Nom:UI:1 N: 9 D: Subscript out of range
+14/07/2012 06:19:09 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:19:09 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:19:09 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:19:10 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:19:10 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:19:10 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:19:10 p.m. Error en GameTimer: Subscript out of range UserIndex = 1
+14/07/2012 06:19:10 p.m. Error en CloseUser. Número 9 Descripción: Subscript out of range
+14/07/2012 06:20:30 p.m. MakeUserChar: num: 91 desc: Object variable or With block variable not set
+14/07/2012 06:20:30 p.m. HandleData. CadOri:OOLOGINACEIL Nom:UI:1 N: 9 D: Subscript out of range
+14/07/2012 06:29:13 p.m. MakeUserChar: num: 91 desc: Object variable or With block variable not set
+14/07/2012 06:29:13 p.m. HandleData. CadOri:OOLOGINACEIL Nom:UI:2 N: 9 D: Subscript out of range
+14/07/2012 06:29:42 p.m. Error en GameTimer: Subscript out of range UserIndex = 2
+14/07/2012 06:29:42 p.m. Error en GameTimer: Subscript out of range UserIndex = 2
+14/07/2012 06:29:42 p.m. Error en GameTimer: Subscript out of range UserIndex = 2
+14/07/2012 06:29:42 p.m. Error en GameTimer: Subscript out of range UserIndex = 2
+14/07/2012 06:29:42 p.m. Error en GameTimer: Subscript out of range UserIndex = 2
+14/07/2012 06:29:42 p.m. Error en GameTimer: Subscript out of range UserIndex = 2
+14/07/2012 06:29:42 p.m. Error en CloseUser. Número 9 Descripción: Subscript out of range
+15/07/2012 05:40:37 p.m. HandleData. CadOri:OOLOGIDIOS Nom:UI:1 N: 13 D: Type mismatch
+15/07/2012 05:40:43 p.m. HandleData. CadOri:OOLOGIMiNuScUlAS Nom:UI:1 N: 13 D: Type mismatch
+15/07/2012 05:40:48 p.m. HandleData. CadOri:OOLOGIDIOS Nom:UI:1 N: 13 D: Type mismatch
+15/07/2012 05:40:50 p.m. HandleData. CadOri:OOLOGIDIOS Nom:UI:1 N: 13 D: Type mismatch
+15/07/2012 05:40:53 p.m. HandleData. CadOri:OOLOGIGuerrero Nom:UI:1 N: 13 D: Type mismatch
+15/07/2012 05:41:00 p.m. HandleData. CadOri:OOLOGIGuerrero Nom:UI:1 N: 13 D: Type mismatch
+15/07/2012 05:41:33 p.m. HandleData. CadOri:NLOGINASD,Humano,Hombre,Hombre,Clerigo,Ullathorpe,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 Nom:ASDUI:3 N: 13 D: Type mismatch
+15/07/2012 05:51:21 p.m. HandleData. CadOri:OOLOGIDIOS Nom:UI:1 N: 13 D: Type mismatch
+16/07/2012 02:25:54 p.m. HandleData. CadOri:OOLOGIDIOS Nom:UI:1 N: 13 D: Type mismatch
+16/07/2012 02:25:57 p.m. HandleData. CadOri:OOLOGIDIOS Nom:UI:1 N: 13 D: Type mismatch
+16/07/2012 02:25:59 p.m. HandleData. CadOri:OOLOGIGuerrero Nom:UI:1 N: 13 D: Type mismatch
